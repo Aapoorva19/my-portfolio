@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Aapoorva19/my-portfolio.git/static/css/main.f84b0d36.css",
-    "main.js": "/Aapoorva19/my-portfolio.git/static/js/main.069f81c2.js",
-    "static/js/453.acca0757.chunk.js": "/Aapoorva19/my-portfolio.git/static/js/453.acca0757.chunk.js",
-    "static/media/my-profile.png": "/Aapoorva19/my-portfolio.git/static/media/my-profile.990c9cb9c5945ec0d94b.png",
-    "index.html": "/Aapoorva19/my-portfolio.git/index.html",
-    "main.f84b0d36.css.map": "/Aapoorva19/my-portfolio.git/static/css/main.f84b0d36.css.map",
-    "main.069f81c2.js.map": "/Aapoorva19/my-portfolio.git/static/js/main.069f81c2.js.map",
-    "453.acca0757.chunk.js.map": "/Aapoorva19/my-portfolio.git/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/aapoorva19/my-portfolio.git/static/css/main.f84b0d36.css",
+    "main.js": "/aapoorva19/my-portfolio.git/static/js/main.7faf16ef.js",
+    "static/js/453.acca0757.chunk.js": "/aapoorva19/my-portfolio.git/static/js/453.acca0757.chunk.js",
+    "static/media/my-profile.png": "/aapoorva19/my-portfolio.git/static/media/my-profile.990c9cb9c5945ec0d94b.png",
+    "index.html": "/aapoorva19/my-portfolio.git/index.html",
+    "main.f84b0d36.css.map": "/aapoorva19/my-portfolio.git/static/css/main.f84b0d36.css.map",
+    "main.7faf16ef.js.map": "/aapoorva19/my-portfolio.git/static/js/main.7faf16ef.js.map",
+    "453.acca0757.chunk.js.map": "/aapoorva19/my-portfolio.git/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f84b0d36.css",
-    "static/js/main.069f81c2.js"
+    "static/js/main.7faf16ef.js"
   ]
 }
