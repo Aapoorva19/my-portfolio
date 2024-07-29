@@ -1,0 +1,46 @@
+/* About.css */
+.about-container {
+  animation: fadeIn 1s ease-out;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+  animation: slideInLeft 0.6s ease-out;
+}
+
+.description {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.Profile-Picture {
+  display: block;
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.Profile-Picture:hover {
+  text-decoration: underline;
+}
+
+/* Keyframes for additional animations */
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}

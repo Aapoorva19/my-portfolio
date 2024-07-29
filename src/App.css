@@ -1,0 +1,44 @@
+/* About.css */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  background-color: #f4f4f9;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 100px;
+  margin: auto;
+}
+
+.title {
+  font-size: 1.5rem; /* Smaller font size */
+  color: #333;
+  margin-bottom: 20px;
+  align-self: flex-end; /* Align to the right within the container */
+  text-align: right; /* Align text to the right */
+}
+
+.profile-picture-container {
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #007bff;
+  transition: transform 0.3s;
+}
+
+.profile-picture:hover {
+  transform: scale(1.05);
+}
+
+.description {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.6;
+}
